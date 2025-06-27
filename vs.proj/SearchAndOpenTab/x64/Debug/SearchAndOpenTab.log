@@ -1,0 +1,8 @@
+﻿  GoToLineDlg.cpp
+  StaticDialog.cpp
+  SearchAndOpenTab.cpp
+  SearchAndOpenTabDialog.cpp
+  PluginDefinition.cpp
+  Generating Code...
+     Creating library D:\Projects\NPP_Plugin\SearchAndOpenTabs\vs.proj\x64\Debug\SearchAndOpenTab.lib and object D:\Projects\NPP_Plugin\SearchAndOpenTabs\vs.proj\x64\Debug\SearchAndOpenTab.exp
+  SearchAndOpenTab.vcxproj -> D:\Projects\NPP_Plugin\SearchAndOpenTabs\vs.proj\x64\Debug\SearchAndOpenTab.dll
